@@ -1,28 +1,13 @@
-# Code Refactor Starter Code
+# Horiseon Refactor
 
 ## Description here
 
-- Motivation
-- Why did you build the project
-- What problem does it solve
-- What did you learn
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+- My motivation for this project was to apply the knowledge given to me in a class setting and be able to apply that knowledge in order to not only get the practice, but to consistently create websites that are easy to use and navigate for all types of people.
+- I built this project to better understand and apply accessibility standards for HTML.
+- This code has alternate text on images in order to assist those who benefit from accessibility friendly websites.
+- Refactoring this code helped me learn how to clearly and concisely add alternate text for images.
 
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
     ![alt text](assets/images/screenshot.png)
@@ -31,15 +16,3 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ## Credits
 
 I used the ReadMe guide from [https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide).
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
