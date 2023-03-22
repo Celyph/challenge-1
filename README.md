@@ -10,11 +10,11 @@
 ## Usage
 
     ```md
-    ![alt text](assets/images/first-screenshot.png)
+    ![First screenshot of the deployed website.](assets/images/first-screenshot.png)
     ```
 
         ```md
-    ![alt text](assets/images/second-screenshot.png)
+    ![Second screenshot of the deployed website.](assets/images/second-screenshot.png)
     ```
 
 ## Credits
