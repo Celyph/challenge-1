@@ -10,7 +10,11 @@
 ## Usage
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](assets/images/first-screenshot.png)
+    ```
+
+        ```md
+    ![alt text](assets/images/second-screenshot.png)
     ```
 
 ## Credits
