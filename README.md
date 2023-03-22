@@ -9,13 +9,9 @@
 
 ## Usage
 
-    ```md
     ![First screenshot of the deployed website.](assets/images/first-screenshot.png)
-    ```
 
-        ```md
     ![Second screenshot of the deployed website.](assets/images/second-screenshot.png)
-    ```
 
 ## Credits
 
