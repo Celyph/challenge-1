@@ -9,9 +9,9 @@
 
 ## Usage
 
-    ![First screenshot of the deployed website.](assets/images/first-screenshot.png)
+![First screenshot of the deployed website.](assets/images/first-screenshot.png)
 
-    ![Second screenshot of the deployed website.](assets/images/second-screenshot.png)
+![Second screenshot of the deployed website.](assets/images/second-screenshot.png)
 
 ## Credits
 
